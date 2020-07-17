@@ -1,0 +1,26 @@
+﻿<Window x:Class="subproject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:subproject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="169,65,0,0" TextWrapping="Wrap" Text="รายได้" VerticalAlignment="Top" Height="38" Width="76" FontSize="20"/>
+        <TextBox x:Name="txtIn" HorizontalAlignment="Left" Height="38" Margin="278,65,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="246" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="575,65,0,0" TextWrapping="Wrap" Text="บาท/วัน" VerticalAlignment="Top" Height="38" Width="83" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="169,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="38" Width="76" Text="รายจ่าย" FontSize="20"/>
+        <TextBox x:Name="txtEx" HorizontalAlignment="Left" Height="38" Margin="278,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="246" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="575,125,0,0" TextWrapping="Wrap" Text="บาท/วัน" VerticalAlignment="Top" Height="38" Width="83" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="87,185,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="38" Width="158" Text="ราคาของที่อยากได้" FontSize="20"/>
+        <TextBox x:Name="txtN" HorizontalAlignment="Left" Height="38" Margin="278,185,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="246" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="575,185,0,0" TextWrapping="Wrap" Text="บาท" VerticalAlignment="Top" Height="38" Width="83" FontSize="20"/>
+        <Button x:Name="Cal" Content="คำนวน" HorizontalAlignment="Left" Height="47" Margin="332,253,0,0" VerticalAlignment="Top" Width="137" FontSize="20" Click="Cal_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="69,333,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="38" Width="176" Text="คุณต้องเก็บเงินทั้งหมด" FontSize="20"/>
+        <TextBox x:Name="txtDays" HorizontalAlignment="Left" Height="38" Margin="278,333,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="246" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="575,333,0,0" TextWrapping="Wrap" Text="วัน" VerticalAlignment="Top" Height="38" Width="83" FontSize="20"/>
+        <Button x:Name="reSet" Content="Reset" HorizontalAlignment="Left" Height="18" Margin="717,391,0,0" VerticalAlignment="Top" Width="65" Click="reSet_Click"/>
+
+    </Grid>
+</Window>

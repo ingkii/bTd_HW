@@ -1,0 +1,15 @@
+C:\Users\lionk\source\repos\subproject\subproject\bin\Debug\subproject.exe.config
+C:\Users\lionk\source\repos\subproject\subproject\bin\Debug\subproject.exe
+C:\Users\lionk\source\repos\subproject\subproject\bin\Debug\subproject.pdb
+C:\Users\lionk\source\repos\subproject\subproject\obj\Debug\subproject.csprojAssemblyReference.cache
+C:\Users\lionk\source\repos\subproject\subproject\obj\Debug\MainWindow.g.cs
+C:\Users\lionk\source\repos\subproject\subproject\obj\Debug\App.g.cs
+C:\Users\lionk\source\repos\subproject\subproject\obj\Debug\subproject_MarkupCompile.cache
+C:\Users\lionk\source\repos\subproject\subproject\obj\Debug\subproject_MarkupCompile.lref
+C:\Users\lionk\source\repos\subproject\subproject\obj\Debug\MainWindow.baml
+C:\Users\lionk\source\repos\subproject\subproject\obj\Debug\subproject.g.resources
+C:\Users\lionk\source\repos\subproject\subproject\obj\Debug\subproject.Properties.Resources.resources
+C:\Users\lionk\source\repos\subproject\subproject\obj\Debug\subproject.csproj.GenerateResource.cache
+C:\Users\lionk\source\repos\subproject\subproject\obj\Debug\subproject.csproj.CoreCompileInputs.cache
+C:\Users\lionk\source\repos\subproject\subproject\obj\Debug\subproject.exe
+C:\Users\lionk\source\repos\subproject\subproject\obj\Debug\subproject.pdb
